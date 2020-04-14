@@ -5,14 +5,6 @@
 - 5-Day Bootcamp _(All day, 2020. 04. 13. ~ 04. 17.)_
 - Each subject is available each day at 8:42 AM via the slack-bot (Paris-timezone)
 - You will be assigned a correction partner if you run `/bootcmap_python correct dayXX`
----
-
-### :bulb: Evaluation log
-- Day00 :
-- Day01 :
-- Day02 :
-- Day03 :
-- Day04 :
 
 ---
 ### :bulb: Useful Links
